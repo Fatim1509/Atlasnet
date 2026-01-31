@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cyber-darker text-gray-100;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-cyber-dark border border-cyber-blue/20 rounded-lg p-6 shadow-lg;
+  }
+}
