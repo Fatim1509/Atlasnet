@@ -26,15 +26,14 @@
 
 ## 🚀 Quick Deploy (5 Minutes)
 
-### 1. Push to GitHub
+### 1. Clone from GitHub
 
 ```bash
-git clone <your-repo>
-cd AtlasNet
-git add .
-git commit -m "Initial commit"
-git push origin main
+git clone https://github.com/Fatim1509/Atlasnet.git
+cd Atlasnet
 ```
+
+**Repository:** https://github.com/Fatim1509/Atlasnet
 
 ### 2. Deploy Backend to Railway
 
@@ -290,6 +289,6 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ⭐ Star this repo if you find it helpful!
 
-[Report Bug](https://github.com/yourusername/AtlasNet/issues) • [Request Feature](https://github.com/yourusername/AtlasNet/issues)
+[Report Bug](https://github.com/Fatim1509/Atlasnet/issues) • [Request Feature](https://github.com/Fatim1509/Atlasnet/issues)
 
 </div>

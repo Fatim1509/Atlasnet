@@ -14,14 +14,15 @@ This guide will help you deploy AtlasNet in under 5 minutes with NO database set
 
 ---
 
-## Step 1: Push to GitHub (1 minute)
+## Step 1: Clone from GitHub (1 minute)
 
 ```bash
-# If you haven't already:
-cd /home/user/webapp/AtlasNet
-git remote add origin https://github.com/YOUR_USERNAME/AtlasNet.git
-git push -u origin main
+# Clone the repository:
+git clone https://github.com/Fatim1509/Atlasnet.git
+cd Atlasnet
 ```
+
+**Repository:** https://github.com/Fatim1509/Atlasnet
 
 ---
 
